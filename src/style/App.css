@@ -1,0 +1,79 @@
+
+
+html,
+body {
+  margin: 0 auto;
+  padding: 0;
+  height: 100%;
+  background-color: #FEECD8;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  /* background-color: #FEECD8; */
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  direction: rtl;
+  width: 100%;
+  max-width: 550px;
+  height:91vh;
+  background-color: #FEECD8;
+  font-family: 'askim';
+  overflow: hidden;
+  position: relative;
+}
+
+
+.bahad-symbols {
+  position: absolute;
+  display: flex;
+  top: 0.2rem;
+  left: 0rem;
+}
+
+.symbol {
+  margin: 0.2rem;
+  height: 3rem;
+}
+
+.til-logo {
+  position: absolute;
+  bottom: 0.2rem;
+  right: 0.8rem;
+  height: 2.5rem;
+}
+
+.home-background {
+  background-image: url('../assets/images/background-home.svg');
+  background-size: cover;
+  background-position: center;
+}
+
+
+@font-face {
+  font-family: askim;
+  src: url('/src/assets/fonts/askim/asakim_bold-webfont.ttf');
+}
+
+@font-face {
+  font-family: assistant;
+  src: url('/src/assets/fonts/assistant/Assistant-Regular.ttf');
+}
+
+@font-face {
+  font-family: assistant-bold;
+  src: url('/src/assets/fonts/assistant/Assistant-Bold.ttf');
+}

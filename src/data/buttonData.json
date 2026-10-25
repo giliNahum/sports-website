@@ -1,0 +1,143 @@
+{
+    "stadiumButtons": [
+        {"text": "אימונים", "id": "exercise", "isLastButton": "false"},
+        {"text": "מידע", "id": "info" , "isLastButton": "false"},
+        {"text": "מידע למפקד", "id": "commander", "isLastButton": "false"},
+        {"text": "מבחנים", "id": "test", "isLastButton": "false"},
+        {"text": " מתקנים", "id": "facilities", "isLastButton": "false"},
+        {"text": "צרו קשר", "id": "contactUs", "isLastButton": "true"}
+    ],
+    "exerciseButtons1": [
+        {"text": "אירובי", "id": "aerobics", "isLastButton": "false"},
+        {"text": "כוח", "id": "strength", "isLastButton": "false"},
+        {"text": "ריצה", "id": "run", "isLastButton": "false"},
+        {"text": "קרב מגע", "id": "kravmaga", "isLastButton": "true"},
+        {"text": "פילאטיס", "id": "pilates", "isLastButton": "false"},
+        {"text": "ספינינג", "id": "spinning", "isLastButton": "true"}
+    ],
+    "testButtons1": [
+        {"text": "נחשון - מעוז", "id": "testMaoz", "isLastButton": "true"},
+        {"text": "שדה", "id": "testField", "isLastButton": "true"},
+        {"text": "גפן", "id": "testGefen", "isLastButton": "true"},
+        {"text": "כש\"ג על פי בה\"דים", "id": "testBahad", "isLastButton": "true"}
+    ],
+    "infoButtons1": [
+        {"text": "הוראות קחצר", "id": "kahzar", "isLastButton": "true"},
+        {"text": "רישום לחד\"כ", "id": "signUpGym", "isLastButton": "true"},
+        {"text": "שעות פתיחה", "id": "workHours", "isLastButton": "true"},
+        {"text": "דבר המדור", "id": "mador", "isLastButton": "true"}
+    ],
+    "commanderButtons1": [
+        {"text": "כושר קרבי", "id": "kravi", "isLastButton": "false"},
+        {"text": "כושר גופני", "id": "kosher", "isLastButton": "false"},
+        {"text": "תזונה", "id": "food", "isLastButton": "false"},
+        {"text": "פיזיותרפיה", "id": "physiotherapy", "isLastButton": "false"},
+        {"text": "שיטות אימון בצהל", "id": "train", "isLastButton": "true"},
+        {"text": "עומס קור וחום", "id": "weather", "isLastButton": "true"}
+    ],
+    "facilitiesButtons1": [
+        {"text": "חדר כושר", "id": "gym", "isLastButton": "true"},
+        {"text": "בריכה", "id": "pool", "isLastButton": "true"},
+        {"text": "איצטדיון", "id": "stadium", "isLastButton": "true"},
+        {"text": "בחמ\"ס", "id": "bachmas", "isLastButton": "true"},
+        {"text": "אולם ספורט", "id": "sportsHall", "isLastButton": "true"},
+        {"text": "מגרשי חוץ", "id": "migrash", "isLastButton": "true"},
+        {"text": "חדרי אירובי וספינינג", "id": "classes", "isLastButton": "true"}
+    ],
+    "aerobicsButtons2": [
+        {"text": "אירובי (1)", "id": "0","group": "exercise"},
+        {"text": "אירובי (2)", "id": "1","group": "exercise"},
+        {"text": "אירובי שינוי קצב (1)", "id": "2","group": "exercise"},
+        {"text": "אירובי שינוי קצב (2)", "id": "3","group": "exercise"},
+        {"text": "אירובי שינוי קצב (3)", "id": "4","group": "exercise"},
+        {"text": "אירובי שינוי קצב (4)", "id": "5","group": "exercise"},
+        {"text": "אימוני נדב", "id": "nadav"}
+    ],
+    "strengthButtons2": [
+        {"text": "מארז 2", "id" :"strength2","group": "strength"},
+        {"text": "מארז 3", "id" :"strength3","group": "strength"},
+        {"text": "אימון מתח מקבילים 1", "id" :"makbilim1"},
+        {"text": "אימון מתח מקבילים 2", "id" :"makbilim2"},
+        {"text": "משקל גוף 1", "id" :"0","group": "exercise"},
+        {"text": "משקל גוף 2", "id" :"1","group": "exercise"},
+        {"text": "משקל גוף 3", "id" :"2","group": "exercise"}
+    ],
+    "runButtons2": [
+        {"text": "אימון ריצה", "id" :"0","group": "exercise"},
+        {"text": "אימון עליות", "id" :"1","group": "exercise"},
+        {"text": "אימון מקטעים 1", "id" :"2","group": "exercise"},
+        {"text": "אימון מקטעים 2", "id" :"3","group": "exercise"},
+        {"text": "מארז חימום", "id" :"runWarmup"},
+        {"text": "מארז אימוני רצף", "id" :"runSequence"},
+        {"text": "מארז אימוני מקטעים", "id" :"runParts"},
+        {"text": "מארז אימוני עליות", "id" :"runUphill"},
+        {"text": "מארז השחרור", "id" :"runRelease"}
+    ],
+    "pilatesButtons2": [
+        {"text": "אימון ליבה ויציבות 1", "id" :"core1"},
+        {"text": "אימון ליבה ויציבות 2", "id" :"core2"},
+        {"text": "שיטת העבודה", "id" :"pilatesMethod"},
+        {"text": "רמה 1 - 10 דקות", "id" :"level1Ten"},
+        {"text": "רמה 2 - 10 דקות", "id" :"level2Ten"},
+        {"text": "רמה 3 - 10 דקות", "id" :"level3Ten"},
+        {"text": "רמה 1 - 30 דקות", "id" :"level1Thirty"},
+        {"text": "רמה 2 - 30 דקות", "id" :"level2Thirty"},
+        {"text": "רמה 3 - 30 דקות", "id" :"level3Thirty"},
+        {"text": "רמה 1 - 60 דקות", "id" :"level1Hour"},
+        {"text": "רמה 2 - 60 דקות", "id" :"level2Hour"},
+        {"text": "רמה 3 - 60 דקות", "id" :"level3Hour"}
+    ],
+    "kraviButtons2": [
+        {"text": "שיפור ריצת 3 ק\"מ", "id": "kraviRunImprove"}
+    ],
+    "kosherButtons2": [
+        {"text": "פציעות ומניעות", "id" :"kosherInjury"},
+        {"text": "תוכניות אימונים", "id" :"kosherPlans"},
+        {"text": "איך משתפרים?", "id" :"kosherImprove"},
+        {"text": "נפח אימון", "id" :"kosherVolume"},
+        {"text": "מאמץ עצים", "id": "kosherEffort"}
+    ],
+    "foodButtons2": [
+        {"text": "דגשי תזונה לקראת בוחן", "id" :"foodTest"},
+        {"text": "תזונה במהלך ניווט", "id" :"foodNavigation"},
+        {"text": "חמשת העקרונות למפקד", "id" :"foodPrinciples"}
+    ],
+    "physiotherapyButtons2": [
+        {"text": "ברך", "id" :"knee"},
+        {"text": "קרסול ושוק", "id" :"ankle"},
+        {"text": "קרסול וכף הרגל", "id" :"feet"},
+        {"text": "חגורת הכתפיים", "id" :"shoulders"},
+        {"text": "הגב התחתון", "id" :"back"},
+        {"text": "גיד אכילס", "id" :"achilles"}
+    ],
+    "strength2Buttons2": [
+        {"text": "מארז 2 (1)", "id": "0", "group": "exercise"},
+        {"text": "מארז 2 (2)", "id": "1", "group": "exercise"},
+        {"text": "מארז 2 (3)", "id": "2", "group": "exercise"},
+        {"text": "מארז 2 (4)", "id": "3", "group": "exercise"},
+        {"text": "מארז 2 (5)", "id": "4", "group": "exercise"},
+        {"text": "מארז 2 (6)", "id": "5", "group": "exercise"},
+        {"text": "מארז 2 ללא ציוד", "id": "6", "group": "exercise"},
+        {"text": "מארז 2 כל הגוף (1)", "id": "7", "group": "exercise"},
+        {"text": "מארז 2 כל הגוף (2)", "id": "8", "group": "exercise"},
+        {"text": "אימון חיזוק ויציבות", "id": "9", "group": "exercise"}
+    ],
+    "strength3Buttons2": [
+        {"text": "מארז 3- כש\"ג בתנועה (1)", "id": "0", "group": "exercise"},
+        {"text": "מארז 3- כש\"ג בתנועה (2)", "id": "1", "group": "exercise"},
+        {"text": "מארז 3- כש\"ג בתנועה (3)", "id": "2", "group": "exercise"},
+        {"text": "אימון כושר מארז 3", "id": "3", "group": "exercise"},
+        {"text": "אימון כוח - מארז 3", "id": "4", "group": "exercise"},
+        {"text": "מארז 3 לשטח", "id": "5", "group": "exercise"},
+        {"text": "מארז 3 לפלוגה", "id": "6", "group": "exercise"},
+        {"text": "מארז 3 לצוות", "id": "7", "group": "exercise"},
+        {"text": "מארז 3 עם ציוד", "id": "8", "group": "exercise"},
+        {"text": "מארז 3 - אימון זוגות", "id": "9", "group": "exercise"},
+        {"text": "מארז 3 (1)", "id": "10", "group": "exercise"},
+        {"text": "מארז 3 (2)", "id": "11", "group": "exercise"},
+        {"text": "מארז 3 (3)", "id": "12", "group": "exercise"},
+        {"text": "מארז 3 (4)", "id": "13", "group": "exercise"},
+        {"text": "מארז 3 (5)", "id": "14", "group": "exercise"},
+        {"text": "מארז 3 (6)", "id": "15", "group": "exercise"}
+    ]
+}
